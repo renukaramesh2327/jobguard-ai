@@ -4,11 +4,11 @@ Your `gh-pages` branch has the portal files. Enable Pages in repo settings:
 
 ## Steps
 
-1. Go to **https://github.com/Santhakumarramesh/jobguard-ai**
+1. Go to **https://github.com/renukaramesh2327/jobguard-ai**
 2. Click **Settings** → **Pages** (left sidebar)
 3. Under **Build and deployment**:
    - **Source:** Deploy from a branch
-   - **Branch:** `gh-pages` (select from dropdown)
+   - **Branch:** `main` (select from dropdown)
    - **Folder:** `/ (root)`
 4. Click **Save**
 
@@ -16,8 +16,8 @@ Your `gh-pages` branch has the portal files. Enable Pages in repo settings:
 
 Your portal will be live at:
 
-**https://santhakumarramesh.github.io/jobguard-ai**
+**https://renukaramesh2327.github.io/jobguard-ai**
 
 ---
 
-If the branch dropdown doesn't show `gh-pages`, the workflow may not have run. Go to **Actions** and run the workflow manually (Run workflow).
+If the branch dropdown doesn't show `main`, ensuring you are pushing to the `main` branch.

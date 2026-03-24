@@ -72,7 +72,7 @@ Deploy with **real model inference** (not heuristics) on Hugging Face Spaces —
 
 ### Option 2: GitHub Pages (Static Portal)
 
-**Live at:** `https://YOUR_USERNAME.github.io/jobguard-ai`
+**Live at:** `https://renukaramesh2327.github.io/jobguard-ai`
 
 ### Create Repo & Deploy
 
@@ -84,12 +84,12 @@ git commit -m "JobGuard AI - Fake job detector portal"
 # 2. Create repo on GitHub: github.com/new → name: jobguard-ai
 
 # 3. Push to GitHub
-git remote add origin https://github.com/YOUR_USERNAME/jobguard-ai.git
+git remote add origin https://github.com/renukaramesh2327/jobguard-ai.git
 git branch -M main
 git push -u origin main
 
 # 4. Enable Pages: Repo → Settings → Pages → Source: GitHub Actions
-# 5. Site goes live at https://YOUR_USERNAME.github.io/jobguard-ai
+# 5. Site goes live at https://renukaramesh2327.github.io/jobguard-ai
 ```
 
 The portal includes a **live analyzer** that outputs REAL or FAKE verdicts.

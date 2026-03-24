@@ -16,7 +16,7 @@ cd /Users/santhakumar/Desktop/jobguard-ai
 
 # Set your GitHub username (replace YOUR_USERNAME with your actual username)
 git remote remove origin 2>/dev/null
-git remote add origin https://github.com/YOUR_USERNAME/jobguard-ai.git
+git remote add origin https://github.com/renukaramesh2327/jobguard-ai.git
 
 git push -u origin main
 ```
@@ -31,4 +31,4 @@ git push -u origin main
 
 The workflow runs automatically. In 1–2 minutes your portal will be live at:
 
-**https://YOUR_USERNAME.github.io/jobguard-ai**
+**https://renukaramesh2327.github.io/jobguard-ai**
